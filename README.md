@@ -20,7 +20,7 @@ gpg2 -d mi_archivo.txt.gpg > mi_archivo_descifrado.txt
 Ver el contenido del archivo descifrado:
 cat mi_archivo_descifrado.txt
 
-Borrar los archivos 
+Borrar los archivos:
 rm mi_archivo.txt
 rm mi_archivo.txt.gpg
 rm mi_archivo_descifrado.txt
